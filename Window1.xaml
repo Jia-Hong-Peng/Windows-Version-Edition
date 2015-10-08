@@ -1,0 +1,9 @@
+﻿<Window x:Class="Windows_Version_Edition.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Windows Version Edition" Height="300" Width="300" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+    	<TextBlock x:Name="txtbOSInfo" Margin="8" TextWrapping="Wrap"/>
+        
+    </Grid>
+</Window>

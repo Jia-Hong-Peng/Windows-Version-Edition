@@ -1,0 +1,12 @@
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\ResolveAssemblyReference.cache
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Window1.baml
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Window1.g.cs
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\App.g.cs
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Windows Version Edition_MarkupCompile.cache
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Windows Version Edition.g.resources
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Windows_Version_Edition.Properties.Resources.resources
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Windows Version Edition.csproj.GenerateResource.Cache
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\bin\Debug\Windows Version Edition.exe
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\bin\Debug\Windows Version Edition.pdb
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Windows Version Edition.exe
+D:\ToolTuCode\TempSourceCode\Windows Version Edition\obj\Debug\Windows Version Edition.pdb
